@@ -1,4 +1,10 @@
 .App {
   text-align: center;
 }
+.box{
+  max-width:600px ;
+  background-color: crimson;
+  padding: 10px 20px 200px;
+  margin:  0 auto;
+}
 
