@@ -12,11 +12,11 @@ export const data =[
         answer : "Efficient and reusable user interface components for building interactive web applications."
     },
     {
-        question :"what is disadvantage of reactjs?",
+        question :"what is disadvantage of Reactjs?",
         answer : "ReactJS can have a steeper learning curve for beginners."
     },
     {
-        question :"What are the Components lifecycle in reactjs? ",
+        question :"What are the Components lifecycle in Reactjs? ",
         answer : "React components go through a lifecycle that includes mounting, updating, and unmounting phases. You can hook into these lifecycle events to perform actions at specific points in a component's existence."
     }
 
