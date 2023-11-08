@@ -8,7 +8,7 @@ export const data =[
         answer : "The purpose of React.js is to build user interfaces for web applications with a focus on creating reusable and efficient UI components."
     },
     {
-        question :"what is advantage of reactjs?",
+        question :"what is advantage of Reactjs?",
         answer : "Efficient and reusable user interface components for building interactive web applications."
     },
     {
