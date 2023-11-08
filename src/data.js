@@ -4,7 +4,7 @@ export const data =[
        answer : "React.js is a JavaScript library for building user interfaces."
     },
     {
-        question :"what is purpose of reactjs?",
+        question :"what is purpose of Reactjs?",
         answer : "The purpose of React.js is to build user interfaces for web applications with a focus on creating reusable and efficient UI components."
     },
     {
