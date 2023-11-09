@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-}
+  }
 .box{
   display:flex;
   height: 100%;
@@ -12,16 +12,18 @@
   width: 500px;
 }
 .item{
-  background-color: aqua;
+  background-image: radial-gradient( circle farthest-corner at 22.4% 21.7%, rgba(4,189,228,1) 0%, rgba(2,83,185,1) 100.2% );
   margin-bottom: 5px;
   padding: 10px 20px;
 }
 .title{
-  color: mediumvioletred;
+  color: rgb(17, 16, 17);
   display: flex;
   justify-content: space-between;
   align-items: center;
   cursor: pointer;
+  background-image: radial-gradient( circle farthest-corner at 22.4% 21.7%, rgba(4,189,228,1) 0%, rgba(2,83,185,1) 100.2% );
+  
 }
 .content{
   color: black;
