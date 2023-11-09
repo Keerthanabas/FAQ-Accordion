@@ -2,8 +2,7 @@
     display:flex;
     justify-content: center; 
     align-content: center;
-    
-  }
+    }
   .accordion{
     width: 500px;
     
@@ -32,5 +31,6 @@
     max-height: 9999px;
     transition: all 0.5s cubic-bezier(0,1,0,1);
    }
+   
    
   
