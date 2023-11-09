@@ -8,8 +8,7 @@ function App() {
     <div className="App">
       <h1 >Project 2 : FAQ/Accordian </h1>
       <h2 className="h2">Frequently Asked Questions</h2>
-      
-    < FAQ data={data}/>
+      < FAQ data={data}/>
     </div>
   )
 }

@@ -19,5 +19,4 @@ export const data =[
         question :"Components lifecycle in Reactjs? ",
         answer : "React components go through a lifecycle that includes mounting, updating, and unmounting phases. You can hook into these lifecycle events to perform actions at specific points in a component's existence."
     }
-
     ]
