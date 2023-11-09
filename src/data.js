@@ -4,15 +4,15 @@ export const data =[
        answer : "React.js is a JavaScript library for building user interfaces."
     },
     {
-        question :"what is purpose of Reactjs?",
+        question :"What is purpose of Reactjs?",
         answer : "The purpose of React.js is to build user interfaces for web applications with a focus on creating reusable and efficient UI components."
     },
     {
-        question :"what is advantage of Reactjs?",
+        question :"What is advantage of Reactjs?",
         answer : "Efficient and reusable user interface components for building interactive web applications."
     },
     {
-        question :"what is disadvantage of Reactjs?",
+        question :"What is disadvantage of Reactjs?",
         answer : "ReactJS can have a steeper learning curve for beginners."
     },
     {
