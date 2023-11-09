@@ -11,10 +11,10 @@ return (
         <div className="accordion">
     {data.map((item,index)=>{
         return(
-            <div >
-                <wrap >
-               <h3>{item.question}</h3>
-               <p>{item.answer}</p>
+            <div className="item">
+                <wrap>
+               <h3 className="title">{item.question}</h3>
+               <p className="content">{item.answer}</p>
                </wrap>
             </div>
             
