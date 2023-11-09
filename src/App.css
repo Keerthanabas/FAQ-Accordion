@@ -2,9 +2,12 @@
   text-align: center;
 }
 .box{
-  max-width:600px ;
-  background-color: crimson;
-  padding: 10px 10px 10px;
-  margin:  0 auto;
+  display:flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-content: center;
 }
-
+.accordion{
+  width: 500px;
+}
