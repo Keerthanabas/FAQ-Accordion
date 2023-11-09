@@ -13,7 +13,10 @@ return (
         return(
             <div className="item">
                 <wrap>
-               <h3 className="title">{item.question}</h3>
+                    <div className="title">
+               <h3 >{item.question}</h3>
+               <span>+</span>
+               </div>
                <p className="content">{item.answer}</p>
                </wrap>
             </div>

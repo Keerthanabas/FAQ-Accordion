@@ -18,7 +18,13 @@
 }
 .title{
   color: mediumvioletred;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .content{
   color: black;
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.5s cubic-bezier(0,1,0,1);
 }
