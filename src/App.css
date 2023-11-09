@@ -11,3 +11,14 @@
 .accordion{
   width: 500px;
 }
+.item{
+  background-color: aqua;
+  margin-bottom: 5px;
+  padding: 10px 20px;
+}
+.title{
+  color: mediumvioletred;
+}
+.content{
+  color: black;
+}
